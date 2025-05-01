@@ -1,0 +1,6 @@
+5
+Peasant 1000 0.5
+Merchant 200 0.7 500
+Noble 50 0.9 100
+Peasant 123 0.5
+Merchant 121 0.7 12100
